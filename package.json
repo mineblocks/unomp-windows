@@ -36,10 +36,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/frndxyz/unomp-windows.git"
+        "url": "https://github.com/mineblocks/unomp-windows.git"
     },
     "dependencies": { 
-	"merged-pooler": "https://github.com/frndxyz/merged-pooler-windows.git",
+	"merged-pooler": "https://github.com/mineblocks/merged-pooler-windows.git",
         "dateformat": "*",
 	"log4js": "*",
 	"bitcoin": "*",
